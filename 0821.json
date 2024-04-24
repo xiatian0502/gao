@@ -133,7 +133,7 @@
 {"key":"csp_XP_dmw","name":"影视┃动漫岛[XPMF]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/dmw.json"},
 {"key":"csp_XP_gongreng","name":"影视┃工人影视[XPMF]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/gongreng.json"},
 {"key":"csp_XP_独播库","name":"影视┃独播库•飞[XPMF]","type":3,"api":"csp_XPathMacFilter","playerType":0,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/duboku.json"},
-
+{ "key": "T4-安博", "name": "安博(T4)", "type": 4, "api": "https://tang.serv00.net/zb/99?token=62453166", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 0, "ext": true },
 {"key":"bb","name":"配置接口完全免费","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
 {"key":"cc","name":"请勿相信视频中任何广告","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"}
 ],
